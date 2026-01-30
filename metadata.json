@@ -1,0 +1,7 @@
+{
+  "name": "charani Studio",
+  "description": "Professional-grade photo enhancement platform powered by Gemini AI. Upload, enhance with prompts, and compare results in real-time.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
